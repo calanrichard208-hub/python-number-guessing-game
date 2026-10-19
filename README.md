@@ -37,3 +37,11 @@ The player attempts to guess a randomly generated number with the help of hints.
 - Graphical user interface
 - Separate leaderboards
 - Replay functionality
+
+## Version History
+
+### Version 1.0
+- Created the initial number guessing game.
+- Added three difficulty levels.
+- Implemented a leaderboard.
+- Published the project on GitHub.
